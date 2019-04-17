@@ -1,4 +1,4 @@
-package app.axross.ciccc.lab1;
+package app.axross.ciccc.lab1_renamed;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
